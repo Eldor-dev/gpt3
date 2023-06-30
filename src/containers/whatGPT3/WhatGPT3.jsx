@@ -17,7 +17,7 @@ const WhatGPT3 = () => {
         </h1>
         <p>Explore The Library</p>
       </div>
-      <div className="gpt3__features-container__feature">
+      <div className="gpt3__whatgpt3-container">
         <Feature
           title="Chatbots"
           text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. "

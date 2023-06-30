@@ -27,3 +27,17 @@
   height: 3px;
   background: var(--gradient-bar);
 }
+
+.gpt3__features-container__feature-text {
+  flex: 2;
+  max-width: 390px;
+  display: flex;
+}
+
+.gpt3__features-container__feature-text p {
+  font-family: var(--font-family);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 30px;
+  color: var(--color-text);
+}
