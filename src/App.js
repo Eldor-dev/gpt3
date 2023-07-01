@@ -2,7 +2,7 @@ import React from "react";
 
 import {
   Blog,
-  Feature,
+  Features,
   Footer,
   Header,
   Possibility,
@@ -21,6 +21,7 @@ const App = () => {
       </div>
       <Brand />
       <WhatGPT3 />
+      <Features />
       <Possibility />
       <CTA />
       <Blog />
